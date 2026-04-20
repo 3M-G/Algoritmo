@@ -1,28 +1,28 @@
-algoritmo "Projeto Competição (Nadador)"
+algoritmo "Projeto CompetiÃ§Ã£o (Nadador)"
 var
    nome: caractere
    idade: inteiro
 inicio
-      escreva ("Qual é o seu nome? ")
+      escreva ("Qual Ã© o seu nome? ")
       leia (nome)
-      escreva ("Qual é sua idade? ")
+      escreva ("Qual Ã© sua idade? ")
       leia (idade)
-      escreval ("Muito prazer ", nome, " Sua idade é", idade, " anos ")
+      escreval ("Muito prazer ", nome, " Sua idade Ã©", idade, " anos ")
       escreva ("Categoria: ")
       se (idade <= 5 ) entao
          escreval ("Muito jovem para competir")
       senao
            se (idade >= 6 ) e (idade < 10) entao
-              escreval ("Competição Infantil")
+              escreval ("CompetiÃ§Ã£o Infantil")
            senao
                 se (idade >= 11) e (idade < 17) entao
-                   escreval ("Competição Juvenil")
+                   escreval ("CompetiÃ§Ã£o Juvenil")
                 senao
                      se (idade >= 18) e (idade < 40) entao
-                        escreval ("Competição Adulta")
+                        escreval ("CompetiÃ§Ã£o Adulta")
                      senao
                           se (idade > 40) entao
-                             escreval ("Competição Master")
+                             escreval ("CompetiÃ§Ã£o Master")
                           senao
                           fimse
                      fimse
