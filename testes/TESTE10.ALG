@@ -14,7 +14,7 @@ inicio
                     se (palpite < numero_secreto) entao
                        escreval ("muito baixo! Tente um numero maior")
                     senao
-                         escreval ("parabens você acertou, Em", tentativa, " tentativas")
+                         escreval ("parabens vocÃª acertou, Em", tentativa, " tentativas")
                     fimse
                fimse
       fimenquanto

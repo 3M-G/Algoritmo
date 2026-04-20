@@ -11,5 +11,5 @@ inicio
                    soma <- soma +numero
                 fimse
        fimenquanto
-       Escreva ("A soma de todos os numeros é: ", soma)
+       Escreva ("A soma de todos os numeros Ã©: ", soma)
 fimalgoritmo

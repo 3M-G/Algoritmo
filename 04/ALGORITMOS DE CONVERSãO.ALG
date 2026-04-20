@@ -1,4 +1,4 @@
-algoritmo "Algoritmos de convers„o"
+algoritmo "Algoritmos de convers√£o"
 var
    reais, dolares: real
 inicio

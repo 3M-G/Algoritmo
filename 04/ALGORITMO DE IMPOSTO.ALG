@@ -2,8 +2,8 @@ algoritmo "ALgoritmo de imposto"
 var
    preco, imposto: real
 inicio
-      escreva ("Qual é o valor dos produtos? US$")
+      escreva ("Qual Ã© o valor dos produtos? US$")
       leia (preco)
       imposto <- (preco * 60) / 100
-      escreva ("O valor da taxa é ", imposto:5:2, " US$")
+      escreva ("O valor da taxa Ã© ", imposto:5:2, " US$")
 fimalgoritmo

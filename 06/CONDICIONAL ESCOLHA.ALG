@@ -4,7 +4,7 @@ var
      valor: real
 inicio
       escreval ("-----------------")
-      escreval ("Criança Esperança")
+      escreval ("CrianÃ§a EsperanÃ§a")
       escreval ("-----------------")
       escreval ("[1] para doar R$10,00 ")
       escreval ("[2] para doar R$25,00 ")
@@ -20,11 +20,11 @@ inicio
               caso 3
                    valor <- 50
               caso 4
-                   escreva ("Qual é o valor que você quer doar? ")
+                   escreva ("Qual Ã© o valor que vocÃª quer doar? ")
                    leia (valor)
               caso 5
               valor <- 0
       fimescolha
       escreval ("--------------------")
-      escreval ("muito obrigado pela doação no valor de", valor, " reias ")
+      escreval ("muito obrigado pela doaÃ§Ã£o no valor de", valor, " reias ")
 fimalgoritmo

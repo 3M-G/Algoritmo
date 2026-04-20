@@ -7,10 +7,10 @@ inicio
       escreva ("Informe sua altura (Metros): ")
       leia (altura)
       imc <- massa / (altura ^ 2)
-      escreval ("Seu imc é ", imc:5:2, "%")
+      escreval ("Seu imc Ã© ", imc:5:2, "%")
       se (imc >= 18.5) e (imc < 25) entao
-         escreval ("Você esta no seu peso ideal ")
+         escreval ("VocÃª esta no seu peso ideal ")
       senao
-           escreva ("Você não esta no peso ideal ")
+           escreva ("VocÃª nÃ£o esta no peso ideal ")
       fimse
 fimalgoritmo

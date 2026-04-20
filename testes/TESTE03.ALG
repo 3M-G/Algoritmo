@@ -9,8 +9,6 @@ inicio
    leia (a)
    alt <- l * a
    t <- alt / 2
-   escreva (" para pintar a area de ", alt, " metros quadrados, você precisara de ", t, " litros de tintas")
+   escreva (" para pintar a area de ", alt, " metros quadrados, vocÃª precisara de ", t, " litros de tintas")
    ")
-   
-   
 fimalgoritmo

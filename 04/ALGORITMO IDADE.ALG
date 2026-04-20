@@ -7,5 +7,5 @@ inicio
       escreva ("Em que ano nasci? ")
       leia (ano_nasci)
       idade <- ano_atual - ano_nasci
-      escreva ("Minha idade é ", idade, " Anos")
+      escreva ("Minha idade Ã© ", idade, " Anos")
 fimalgoritmo
