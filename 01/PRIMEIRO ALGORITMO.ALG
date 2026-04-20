@@ -1,12 +1,7 @@
 Algoritmo "Primeiro algoritmo"
 Var
   msg: caractere
-  
-
-
-
 Inicio
-      msg <- "olá, mundo!"
+      msg <- "ola, mundo!"
       escreval  ("mensagem ", msg)
-
 Fimalgoritmo
