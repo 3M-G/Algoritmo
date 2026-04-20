@@ -6,10 +6,10 @@ inicio
       escreval ("---------------------------------")
       escreval ("            Cafeteria            ")
       escreval ("---------------------------------")
-      escreval ("[1] CafÈ Expresso R$5,00")
+      escreval ("[1] Caf√© Expresso R$5,00")
       escreval ("[2]Capuccino R$8,00")
       escreval ("[3]Chocolate Quente R$10,00")
-      escreval ("[4]Ch· Gelado R$4,00")
+      escreval ("[4]Ch√° Gelado R$4,00")
       leia (opcao)
       escolha opcao
               caso 1
@@ -21,5 +21,5 @@ inicio
               caso 4
                    valor <- 4
       fimescolha
-      escreval ("vocÍ escolheu a bebida ", opcao, " no valor ", valor, " reais " )
+      escreval ("voc√™ escolheu a bebida ", opcao, " no valor ", valor, " reais " )
 fimalgoritmo
