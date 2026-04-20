@@ -11,7 +11,7 @@ inicio
       leia (l3)
       se (l1 < l2 + l3 )e (l2 < l1 + l3 ) e (l3 < l1 + l2) entao
          se (l1 = l2) e (l2 = l3) entao
-            Escreva ("EQUIlÁTERO")
+            Escreva ("EQUIlÃTERO")
          senao
               se (l1 <> l2 ) e (l2 <> l3 ) e (l3 <> l1) entao
                  escreva ("ESCALENO")
@@ -19,8 +19,7 @@ inicio
                    escreva ("ISOSCELES")
               fimse
          fimse
-
       senao
-           escreva ("Os valores não formam um TRIÂNGULO!")
+           escreva ("Os valores nÃ£o formam um TRIÃ‚NGULO!")
       fimse
 fimalgoritmo
