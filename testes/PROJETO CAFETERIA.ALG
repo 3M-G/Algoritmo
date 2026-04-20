@@ -23,3 +23,4 @@ inicio
       fimescolha
       escreval ("você escolheu a bebida ", opcao, " no valor ", valor, " reais " )
 fimalgoritmo
+
