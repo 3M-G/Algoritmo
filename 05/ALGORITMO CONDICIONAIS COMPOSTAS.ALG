@@ -5,8 +5,8 @@ inicio
    escreva ("Digite um numero qualquer: ")
    leia (n)
    se (n % 2 = 0) entao
-      escreva ("o numero ", n, " é PAR ")
+      escreva ("o numero ", n, " Ã© PAR ")
    senao
-      escreva ("o numero ", n, " é IMPAR")
+      escreva ("o numero ", n, " Ã© IMPAR")
    fimse
 fimalgoritmo
