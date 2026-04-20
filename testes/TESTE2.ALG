@@ -9,7 +9,5 @@ inicio
    leia (a)
    a1 <- l * a
    t <- a1 / 2
-   escreva ("A quantidade de tinta usada na parede é ", t)
-   
-   
+   escreva ("A quantidade de tinta usada na parede Ã© ", t)
 fimalgoritmo
