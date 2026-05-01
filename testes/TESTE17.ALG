@@ -1,10 +1,10 @@
 algoritmo "Teste17"
-var
    //Esse projeto é o primeiro que não tenho dificuldade e o mais complexo//
    //Validação de entradas — pagamento inválido e valor insuficiente nunca travam o sistema//
    //Regras de negócio reais — desconto progressivo por faixa de valor//
    //Controle de sessão — contador de vendas acumulado//
    //Fluxo completo de venda — do lançamento de produtos até a emissão da nota//
+var
    opcao, pagamento, quantidade, i, totalvendas: inteiro
    preco, total, desconto, totaldesconto, valorpago, troco: real
    continuar: caractere
