@@ -1,0 +1,18 @@
+algoritmo "Pratica (Escopo falha)"
+var
+   n: inteiro
+procedimento parouimpar (v: inteiro)
+inicio
+      se (v%2 = 0) entao
+         escreval ("O numero ", v, " é PAR")
+      senao
+           escreval ("O numero ", v, " é IMPAR")
+      fimse
+fimprocedimento
+inicio
+      escreva ("Digite um numero: ")
+      leia (n)
+      parouimpar (n)
+      escreval ("O valor de V é ", v)
+      escreval ("O valor de N é ", n)
+fimalgoritmo
