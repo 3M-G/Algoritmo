@@ -1,6 +1,6 @@
 algoritmo "Matrizes03"
 var
-   mid: vetor [1..3, 1..3] de inteiro
+   mid: vetor[1..3, 1..3] de inteiro
    i, j: inteiro
 inicio
       para i <- 1 ate 3 faca
